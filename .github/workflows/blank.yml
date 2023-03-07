@@ -36,4 +36,4 @@ jobs:
           echo test, and deploy your project.
           
       - name: trying curl
-        run: curl --fail https://example.com/api/endpoint
+        run: curl --fail https://example.com
